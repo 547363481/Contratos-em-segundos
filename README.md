@@ -2,7 +2,8 @@
 # 数字货币交易所带秒合约交易所
 
 数字货币交易所带秒合约，可控输赢，可以控制每个用户的盈利与亏损，也可设置每个用户的盈亏百分比
-需要源码或者细节方面的请联系telegrama：[https://t.me/ae86hnb](https://t.me/yjrCode)/h
+需要源码或者细节方面的请联系telegrama：[https://t.me/ae86hnb](https://t.me/yjrCode)
+
 需要源码或者细节方面的请联系telegrama：[https://t.me/yjrCode](https://t.me/yjrCode)
 
 
