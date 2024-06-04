@@ -3,9 +3,9 @@
 
 数字货币交易所带秒合约，可控输赢，可以控制每个用户的盈利与亏损，也可设置每个用户的盈亏百分比
 
-需要源码或者细节方面的请联系telegrama：[https://t.me/ae86hnb](https://t.me/yjrCode)
+需要源码或者细节方面的请联系telegrama：[https://t.me/xIkPOaaKmBR](https://t.me/xIkPOaaKmBR)
 
-需要源码或者细节方面的请联系telegrama：[https://t.me/yjrCode](https://t.me/yjrCode)
+需要源码或者细节方面的请联系telegrama：[https://t.me/cjbTzaZyrJP](https://t.me/cjbTzaZyrJP)
 
 
 前台可以选择下单货币，交易秒数，秒数不同盈利率不同
