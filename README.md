@@ -5,7 +5,7 @@
 
 各种交易所都有，有需要请联系
 
-需要源码或者细节方面的请联系telegrama：[https://t.me/ye0902](https://t.me/ye0902)
+需要源码或者细节方面的请联系telegrama：https://t.me/NyJUxaMxZED
 
 
 前台可以选择下单货币，交易秒数，秒数不同盈利率不同
